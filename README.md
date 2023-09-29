@@ -1,5 +1,5 @@
 # Resturant
-A Beautiful and amazing restaurant website
+A Awesome website using HTML and CSS ( using flexbox )
 
 ![image](https://github.com/fs-firststep/Resturant/assets/91541029/d2b3ccea-e952-4f73-bdaf-bdc6c27a7873) <br/><br/>
 ![image](https://github.com/fs-firststep/Resturant/assets/91541029/3ff5e038-d85d-4357-aa8c-b67c60ad259e) <br/><br/>
